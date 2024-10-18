@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "E:\\Program Files (x86)\\Arduino\\libraries",
+  "customBuildProperties": "build.path=e:\\programming\\Arduino\\build,build.warn_data_percentage=75,runtime.tools.avr-gcc.path=E:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.arduinoOTA.path=E:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr,runtime.tools.avrdude.path=E:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "E:\\Program Files (x86)\\Arduino\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\19234\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10800",
+  "sketchLocation": "e:\\programming\\Arduino\\hello.ino",
+  "toolsFolders": "E:\\Program Files (x86)\\Arduino\\tools-builder,E:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr"
+}
