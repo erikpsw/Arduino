@@ -2,6 +2,6 @@
     "board": "arduino:avr:uno",
     "port": "COM5",
     "programmer": "arduino:avrispmkii",
-    "sketch": "hello.ino",
+    "sketch": "Hello_world\\main\\main.ino",
     "output": "./build"
 }

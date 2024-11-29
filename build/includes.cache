@@ -10,7 +10,27 @@
     "Includepath": "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
   },
   {
-    "Sourcefile": "e:\\programming\\Arduino\\build\\sketch\\hello.ino.cpp",
+    "Sourcefile": "e:\\programming\\Arduino\\build\\sketch\\main.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "E:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "e:\\programming\\Arduino\\build\\sketch\\main.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "E:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
     "Include": "",
     "Includepath": ""
   }

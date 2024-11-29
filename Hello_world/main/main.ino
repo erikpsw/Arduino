@@ -1,12 +1,10 @@
-# 1 "e:\\programming\\Arduino\\Hello_world\\main\\main.ino"
-# 1 "e:\\programming\\Arduino\\Hello_world\\main\\main.ino"
 /************************************************/
 // 湖南创乐博智能科技有限公司
-# 4 "e:\\programming\\Arduino\\Hello_world\\main\\main.ino" 2
+#include <Servo.h>
 /************************************************/
 Servo myservo; // create servo object to control a servo
 /************************************************/
-
+#define MAX 255    
 int val = 0;
 float range = 180.0;
 

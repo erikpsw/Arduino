@@ -17,6 +17,7 @@
             "includePath": [
                 "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
                 "E:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard",
+                "E:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src",
                 "e:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include",
                 "e:\\program files (x86)\\arduino\\hardware\\tools\\avr\\lib\\gcc\\avr\\4.9.2\\include-fixed",
                 "e:\\program files (x86)\\arduino\\hardware\\tools\\avr\\avr\\include"

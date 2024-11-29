@@ -1,5 +1,5 @@
-e:\programming\Arduino\build\sketch\hello.ino.cpp.o: \
- e:\programming\Arduino\build\sketch\hello.ino.cpp \
+e:\programming\Arduino\build\sketch\main.ino.cpp.o: \
+ e:\programming\Arduino\build\sketch\main.ino.cpp \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
@@ -10,4 +10,6 @@ e:\programming\Arduino\build\sketch\hello.ino.cpp.o: \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Printable.h \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
  E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
- E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\standard/pins_arduino.h
+ E:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\standard/pins_arduino.h \
+ E:\Program\ Files\ (x86)\Arduino\libraries\Servo\src/Servo.h \
+ E:\Program\ Files\ (x86)\Arduino\libraries\Servo\src/avr/ServoTimers.h
